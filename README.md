@@ -1,2 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Практическая работа №6
+## Тема: Создание API при помощи пакета Conduit.
+### Цель работы: необходимо реализовать API при помощи пакета Conduit. 
+
+### Ход работы:
+
+Вывод: в ходе работы реализовала API при помощи пакета Conduit.
