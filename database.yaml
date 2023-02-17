@@ -1,0 +1,5 @@
+username: "postgres"
+password: "225577"
+host: "localhost"
+port: 5432
+databaseName: "notes"
